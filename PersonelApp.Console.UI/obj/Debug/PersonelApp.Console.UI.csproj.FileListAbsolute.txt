@@ -1,0 +1,17 @@
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe.config
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.pdb
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonnelApp.DAL.dll
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonnelApp.Domains.dll
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonnelApp.DAL.pdb
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonnelApp.DAL.dll.config
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\PersonnelApp.Domains.pdb
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.CopyComplete
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.exe
+C:\Users\husey\source\repos\netCalisma\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.pdb
